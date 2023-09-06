@@ -1,6 +1,6 @@
 # Farid Syifa Arrahim
 
-![Foto Profil](get.jpg)
+![Foto Profil](get.jpeg)
 
 Saya Farid Syifa Arrahim, seorang Programmer dengan minat dalam Programming, Web Design, UI/UX Design, Graphics Design, Editor Video, dan Fotografer.
 
