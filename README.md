@@ -1,6 +1,10 @@
 # Farid Syifa Arrahim
 Saya Farid Syifa Arrahim, seorang Programmer dengan minat dalam Programming, Web Design, UI/UX Design, Graphics Design, Editor Video, dan Fotografer.
 
+# Penilaian Github
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freyy4&langs_count=8)
+![Penilaian Github](https://github-readme-stats.vercel.app/api?username=freyy4)
+
 ## Tentang Saya
 
 - Nama: Farid Syifa Arrahim
