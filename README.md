@@ -24,9 +24,9 @@ I'm Farid Syifa Arrahim, a Programmer with interests in Programming, Web Design,
 - Coding (PHP, Laravel, Codeigniter, MySQL)
 - Web Design (HTML, CSS, Javascript, Figma)
 - UI/UX Design (Figma)
-- Graphics Design (Photoshop, Corel Draw, Align Motion)
-- Video Editing (Capcut, Align Motion)
-- Photography (Android Phone, Adobe Illustrator)
+- Graphics Design (Photoshop, Corel Draw, PixelLab, Align Motion)
+- Video Editing (Capcut, Align Motion, Adobe Premiere Pro)
+- Photography (Android Phone, IOs Phone, Adobe Illustrator)
 
 ## Recent Projects
 
@@ -45,5 +45,6 @@ I'm Farid Syifa Arrahim, a Programmer with interests in Programming, Web Design,
 
 - **Instagram:** [https://www.instagram.com/https.f_syi19/](https://www.instagram.com/https.f_syi19/)
 - **GitHub:** [https://github.com/freyy4](https://github.com/freyy4)
+- **Website:** [https://farid-syifa-arrahim.backupinaja.cloud]
 
 Feel free to reach out to me if you have any questions or would like to collaborate on a project. I'm always open for discussion and knowledge sharing. Thank you for visiting!
