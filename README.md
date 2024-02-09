@@ -11,7 +11,7 @@ I'm Farid Syifa Arrahim, a Programmer with interests in Programming, Web Design,
 - **Name:** Farid Syifa Arrahim
 - **Location:** Jombang
 - **Email:** frd.syf004@gmail.com
-- **Website:** [https://farid-syifa-arrahim.backupinaja.cloud]([https://caseer.my.id/mylink](https://farid-syifa-arrahim.backupinaja.cloud))
+- **Website:** [https://farid-syifa-arrahim.backupinaja.cloud](https://farid-syifa-arrahim.backupinaja.cloud)
 
 ## Education
 
