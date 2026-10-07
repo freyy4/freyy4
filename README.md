@@ -133,18 +133,6 @@ Developed responsive company websites and landing pages for businesses and recru
 
 ---
 
-## 🏆 GitHub Profile Trophy
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=freyy4&theme=darkhub&no-frame=true&margin-w=10)
-
----
-
-## 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=freyy4&theme=github-compact)
-
----
-
 ## 🎯 Currently Learning
 
 ```text
